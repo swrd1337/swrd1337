@@ -5,6 +5,8 @@ I'm a **Full Stack Software Developer** who builds engaging applications like *S
 
 🔭 I’m currently working on [Sokudo](https://github.com/swrd1337/sokudo).
 
+![Metrics](https://metrics.lecoq.io/swrd1337?template=classic&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Europe%2FBucharest)
+
 
 <!--
 **swrd1337/swrd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
