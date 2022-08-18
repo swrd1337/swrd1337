@@ -1,14 +1,6 @@
-<style>
-  span.hl {
-    color: #EF6065;
-    text-shadow: 0 0 5px #EF6065;
-    font-weight: 600;
-  }
-</style>
-
-Hi, I'm <span class="hl">Alexei</span>. Nice to meet you! 😊
+Hi, I'm **Alexei**. Nice to meet you! 😊
 <br>
-I'm a <span class="hl">Full Stack Software Developer</span> who builds engaging websites like this one and I also enjoy bringing new ideas to life.
+I'm a **Full Stack Software Developer** who builds engaging websites like this one and I also enjoy bringing new ideas to life.
 <br>
 
 
