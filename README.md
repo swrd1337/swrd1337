@@ -1,7 +1,6 @@
 Hi, I'm **Alexei**. Nice to meet you! 😊
-<br>
+
 I'm a **Full Stack Software Developer** who builds engaging applications like *Sokudo* and *swrd-terminal* and I also enjoy bringing new ideas to life.
-<br>
 
 
 🔭 I’m currently working on [Sokudo](https://github.com/swrd1337/sokudo).
