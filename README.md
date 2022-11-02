@@ -2,8 +2,9 @@ Hi, I'm **Alexei**. Nice to meet you! 😊
 
 I'm a **Full Stack Software Developer** who builds engaging applications like *Sokudo* and *swrd-terminal* and I also enjoy bringing new ideas to life.
 
+🌠 You can check out [my portofolio website!](https://swrd1337.com)
 
-🔭 I’m currently working on [Sokudo](https://github.com/swrd1337/sokudo).
+🔭 Currently working on [Sokudo](https://github.com/swrd1337/sokudo).
 
 <!--
 **swrd1337/swrd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
