@@ -1,13 +1,13 @@
-Hi, I'm **Alexei**. Nice to meet you! 😊
+An ordinary **full-stack software developer** from GitHub.
 
-I'm a **Full Stack Software Developer** who builds engaging applications like *Sokudo* and *swrd-terminal* and I also enjoy bringing new ideas to life.
+Check out my check out [website](https://swrd1337.com). 
 
-🌠 You can check out [my portofolio website!](https://swrd1337.com)
 
-🔭 Currently working on [Sokudo](https://github.com/swrd1337/sokudo).
+<img src="https://github.com/swrd1337/swrd1337/assets/36896352/8dd53fd1-56c1-4a7d-a98b-f36255b807ad" alt="hello world" width="400px" />
 
 <!--
 **swrd1337/swrd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![coding-hello-world](https://github.com/swrd1337/swrd1337/assets/36896352/8dd53fd1-56c1-4a7d-a98b-f36255b807ad)
 
 Here are some ideas to get you started:
 
