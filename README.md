@@ -1,9 +1,11 @@
 An ordinary **full-stack software developer** from GitHub.
 
-Check out my check out my [website](https://swrd1337.com). 
+Check out my [website](https://swrd1337.com). 
 
 
 <img src="https://github.com/swrd1337/swrd1337/assets/36896352/8dd53fd1-56c1-4a7d-a98b-f36255b807ad" alt="hello world" width="400px" />
+
+Choomba!
 
 <!--
 **swrd1337/swrd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
