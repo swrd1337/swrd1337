@@ -1,4 +1,4 @@
-An ordinary **full-stack software developer** from GitHub.
+An ordinary **full-stack software developer**.
 
 Check out my [website](https://swrd1337.com) for more details. 
 
