@@ -1,8 +1,4 @@
-An ordinary **full-stack software developer**.
-
-Check out my [website](https://swrd1337.com) for more details. 
-
-(～￣▽￣)～
+（づ￣3￣）づ╭❤️～
 
 <!--
 **swrd1337/swrd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
